@@ -80,4 +80,3 @@ I'm a physics student in Vienna and on the rare occasion that I find myself with
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
