@@ -14,27 +14,17 @@
 
 
 
-### Glad to see you here!  
+### What are you even doing here?  
 I'm a physics student in Vienna and on the rare occasion that I find myself with too much time on my hands I work on some programming projects.  
   
 
 <br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+ 
 
 - 🔭 I’m currently working on [DonkeySight](https://github.com/benjaminorthner/donkeysight)  
   
 
 - 🌱 I’m currently learning Web Development with JavaScript, CSS, HTML and Flask  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
