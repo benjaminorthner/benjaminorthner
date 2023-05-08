@@ -21,7 +21,7 @@ I'm a physics student in Vienna and on the rare occasion that I find myself with
 <br/>  
  
 
-- 🔭 I’m currently working on [DonkeySight](https://github.com/benjaminorthner/donkeysight)  
+- 🔭 I’m currently working on [SpectrumCleaner](https://github.com/benjaminorthner/spectrumCleaner)  
   
 
 - 🌱 I’m currently learning Web Development with JavaScript, CSS, HTML and Flask  
